@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70ce75175cbb1b8c7b778b1c18ff92d5",
+    "revision": "32227da4d22ba0265e7f862cca81a280",
     "url": "/2020-04-04-Live-CSS-Editor/index.html"
   },
   {
-    "revision": "fe808d47e97925cae6e5",
+    "revision": "b370ef7f55d2990ee4d9",
     "url": "/2020-04-04-Live-CSS-Editor/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "d1911873680579da1708",
-    "url": "/2020-04-04-Live-CSS-Editor/static/js/2.82859b44.chunk.js"
+    "revision": "0ef8fd526a78c38735f9",
+    "url": "/2020-04-04-Live-CSS-Editor/static/js/2.fa9491c4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/2020-04-04-Live-CSS-Editor/static/js/2.82859b44.chunk.js.LICENSE.txt"
+    "url": "/2020-04-04-Live-CSS-Editor/static/js/2.fa9491c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe808d47e97925cae6e5",
-    "url": "/2020-04-04-Live-CSS-Editor/static/js/main.c3792faf.chunk.js"
+    "revision": "b370ef7f55d2990ee4d9",
+    "url": "/2020-04-04-Live-CSS-Editor/static/js/main.d1edea8b.chunk.js"
   },
   {
     "revision": "f88a2e16fc82e7452849",
