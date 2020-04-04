@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8a1aea451ce3d14b2c6c88ecc0dfc7d",
+    "revision": "9c995b36a48222ef2a7a37385498ceec",
     "url": "/2020-04-04-Live-CSS-Editor/index.html"
   },
   {
